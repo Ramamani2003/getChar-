@@ -1,0 +1,2 @@
+# getChar-
+getChar() for java
